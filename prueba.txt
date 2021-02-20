@@ -8,3 +8,6 @@ la versióin anterior del archivo.
 
 Este tercer párrafo se creó posterior al tercer
 commit y hace parte de la nueva rama.
+
+Este cuarto párrafo se creó posterior al primer
+commit de desarrollo
