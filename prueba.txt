@@ -1,3 +1,7 @@
 Esto es la primera linea del archivo
 esta es mi primera modificación del archivo
-posterior al primer commit
+posterior al primer commit.
+
+Este segundo párrafo se creó posterior
+al segundo commit con el objetivo de alterar
+la versióin anterior del archivo.
