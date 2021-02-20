@@ -5,3 +5,6 @@ posterior al primer commit.
 Este segundo párrafo se creó posterior
 al segundo commit con el objetivo de alterar
 la versióin anterior del archivo.
+
+Este tercer párrafo se creó posterior al tercer
+commit y hace parte de la nueva rama.
